@@ -1,0 +1,9 @@
+<kernel>
+    <properties>
+        <property>
+            <type>\Plaisio\TrustedHostAuthority\TrustedHostAuthority</type>
+            <name>trustedHostAuthority</name>
+            <description>The object for determining whether the remote host (i.e. the next hop) is a trusted host.</description>
+        </property>
+    </properties>
+</kernel>
